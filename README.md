@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @maahit28
+Hi, I'm M 👋
 
+I am an AI/ML student with a strong interest in Graph Neural Networks and Explainable AI.
 
-<!---
-maahit28/maahit28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have worked on graph-based optimization problems during my internship at NIT Hamirpur.
+
+🚀 Currently Working On
+- X-Fashion — Explainable GNN-based Recommendation System
+
+🧠 Interests
+- Machine Learning  
+- Graph Neural Networks  
+- Explainable AI  
+
+🎯 Goal
+To build intelligent systems that are accurate, scalable, and interpretable.
