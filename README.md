@@ -7,8 +7,13 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+# 🚀 Currently Building:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maahit28&show_icons=true&theme=tokyonight)
+🔹 AI Fashion Stylist Platform  
+→ AI-based outfit recommendation system with real outfit visualization  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maahit28&layout=compact&theme=tokyonight)
+🔹 AI Recommendation Engine  
+→ Personalized suggestions using similarity scoring & ML  
+
+🔹 Exploring GenAI  
+→ Working with LLMs and real-world AI applications
